@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/bbutton/trello_webhook/main",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/VojtechVitek/go-trello",
+			"Rev": "8ad967527441bce55fff4ed1dc08146849afad53"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfenv",
+			"Comment": "v1.12",
+			"Rev": "c682e189b94b0b2ec6edf12363df2eecf29d7256"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "281073eb9eb092240d33ef253c404f1cca550309"
+		}
+	]
+}

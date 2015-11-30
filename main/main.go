@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/bbutton/trello_webhook/Godeps/_workspace/src/github.com/VojtechVitek/go-trello"
-	"github.com/bbutton/trello_webhook/Godeps/_workspace/src/github.com/cloudfoundry-community/go-cfenv"
+	"github.com/bbutton/trello_webhook/main/Godeps/_workspace/src/github.com/VojtechVitek/go-trello"
+	"github.com/bbutton/trello_webhook/main/Godeps/_workspace/src/github.com/cloudfoundry-community/go-cfenv"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
