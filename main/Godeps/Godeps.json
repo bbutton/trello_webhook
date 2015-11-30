@@ -7,6 +7,10 @@
 			"Rev": "8ad967527441bce55fff4ed1dc08146849afad53"
 		},
 		{
+			"ImportPath": "github.com/bbutton/trello_webhook/trelloData",
+			"Rev": "1bc6c69f5a38f062678a8fb63867bb8b507b0b73"
+		},
+		{
 			"ImportPath": "github.com/cloudfoundry-community/go-cfenv",
 			"Comment": "v1.12",
 			"Rev": "c682e189b94b0b2ec6edf12363df2eecf29d7256"

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/bbutton/trello_webhook/trelloData"
+	"github.com/bbutton/trello_webhook/main/Godeps/_workspace/src/github.com/bbutton/trello_webhook/trelloData"
 )
 
 type Name struct {
